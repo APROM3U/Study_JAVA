@@ -1,6 +1,14 @@
 digital/innovation/one/ExemploList.java
  digital.innovation.one.ExemploList
+digital/innovation/one/ExemploHashMap.java
+ digital.innovation.one.ExemploHashMap
 digital/innovation/one/ExemploVector.java
  digital.innovation.one.ExemploVector
+digital/innovation/one/ExampleHashSet.java
+ digital.innovation.one.ExampleHashSet
 digital/innovation/one/ExemploQueue.java
  digital.innovation.one.ExemploQueue
+digital/innovation/one/ExemploTreeMap.java
+ digital.innovation.one.ExemploTreeMap
+digital/innovation/one/ExemploHashTable.java
+ digital.innovation.one.ExemploHashTable
