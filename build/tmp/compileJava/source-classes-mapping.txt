@@ -1,0 +1,6 @@
+digital/innovation/one/ExemploList.java
+ digital.innovation.one.ExemploList
+digital/innovation/one/ExemploVector.java
+ digital.innovation.one.ExemploVector
+digital/innovation/one/ExemploQueue.java
+ digital.innovation.one.ExemploQueue
